@@ -100,6 +100,5 @@ Both scripts start with `setwd(...)` pointing to a local folder: change it to th
 
 A description of every file is in [`CODE.md`](CODE.md).
 
-## Main references
-- Hollinger, J. (2005). *Pro Basketball Forecast*. Potomac Books.
+## Main reference
 - Stathead (2024). https://stathead.com
